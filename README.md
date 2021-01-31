@@ -1,4 +1,4 @@
-#Taxi Fare UI
+# Taxi Fare UI
 
 In order to run the taxi fare UI, you first need to launch the [taxi fare 
 backend](https://github.com/matganine/TaxiFare).
